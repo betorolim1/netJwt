@@ -12,11 +12,11 @@ namespace JWT.Repositories
         {
             var users = new List<User>
             {
-                new User{Id = 1, UserName="Batman", Password="batman", Role="Manager"},
-                new User{Id = 2, UserName="Robin", Password="robin", Role="Employee"}
+                new User{Id = 1, UserName="Batman", Password="batman", Role="manager"},
+                new User{Id = 2, UserName="Robin", Password="robin", Role="employee"}
             };
 
-            users.Where(x => x.UserName.ToLower() == username.ToLower() && x.Password == password).FirstOrDefault();
+            return users.Where(x => x.UserName.ToLower() == username.ToLower() && x.Password == password).FirstOrDefault();
         }
     }
 }

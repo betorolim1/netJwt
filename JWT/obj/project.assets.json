@@ -4721,19 +4721,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adalberto.nogueira\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudo\\JWT\\JWT\\JWT\\JWT.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Estudo\\netJwt\\JWT\\JWT.csproj",
       "projectName": "JWT",
-      "projectPath": "C:\\Estudo\\JWT\\JWT\\JWT\\JWT.csproj",
-      "packagesPath": "C:\\Users\\adalberto.nogueira\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudo\\JWT\\JWT\\JWT\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\Estudo\\netJwt\\JWT\\JWT.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\Estudo\\netJwt\\JWT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\adalberto.nogueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4741,7 +4741,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://bahrein:8080/tfs/DPT/_packaging/GPS/nuget/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
